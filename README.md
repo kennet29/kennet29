@@ -1,5 +1,35 @@
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 🖥️ Terminal
+
+```bash
+$ whoami
+Kenneth
+
+$ role
+Junior Developer & Mechatronics Engineer
+
+$ since --work
+September 2025
+
+$ focus
+Programming microcontrollers
+Designing robotics circuits
+3D printing and prototyping
+Web development and data-driven solutions
+
+$ currently-learning
+Rust
+Solidity
+Figma
+SEO
+
+$ status
+Building, learning, and improving every day 🚀
+```
+
 # 💫 About Me:
-![Parrot](https://cultofthepartyparrot.com/parrots/hd/parrot.gif)
 
 ¡Hola! Soy **Kenneth**  
 💻 **Junior Developer | Mechatronics Engineer | Tech Enthusiast**  
@@ -29,9 +59,6 @@ Me especializo en crear soluciones que conectan **software + hardware**, combina
 ![](https://github-readme-stats.vercel.app/api?username=kennet29&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kennet29&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennet29&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kennet29&icon=4&color=4)](https://visitcount.itsvg.in)
