@@ -3,31 +3,9 @@
 
 ## 🖥️ Terminal
 
-```bash
-$ whoami
-Kenneth
-
-$ role
-Junior Developer & Mechatronics Engineer
-
-$ since --work
-September 2025
-
-$ focus
-Programming microcontrollers
-Designing robotics circuits
-3D printing and prototyping
-Web development and data-driven solutions
-
-$ currently-learning
-Rust
-Solidity
-Figma
-SEO
-
-$ status
-Building, learning, and improving every day 🚀
-```
+<p align="center">
+  <img src="./carbon.svg" alt="Terminal Kenneth" width="100%" />
+</p>
 
 # 💫 About Me:
 
