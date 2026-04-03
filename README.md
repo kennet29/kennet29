@@ -1,12 +1,3 @@
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 🖥️ Terminal
-
-<p align="center">
-  <img src="./carbon.svg" alt="Terminal Kenneth" width="100%" />
-</p>
-
 # 💫 About Me:
 
 ¡Hola! Soy **Kenneth**  
@@ -28,6 +19,10 @@ Me especializo en crear soluciones que conectan **software + hardware**, combina
 🔥 Me motivan los nuevos desafíos, la innovación y las oportunidades de seguir creciendo tanto a nivel técnico como profesional.  
 
 🤝 ¡Me encantaría conectar, colaborar y participar en proyectos interesantes! 🚀✨
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 # 💻 Tech Stack:
